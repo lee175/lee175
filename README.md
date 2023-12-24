@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lee175
-- 👀 Not me cooding...
-- 🌱 Chess, gymnastics and coding(not me...)
+- 👀 Not me coding...
+- 🌱 Chess, gymnastics and coding
 
 <!---
 lee175/lee175 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
